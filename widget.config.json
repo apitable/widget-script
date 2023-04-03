@@ -1,0 +1,22 @@
+{
+  "packageId": "",
+  "spaceId": "",
+  "globalPackageId": "wpkPUIDr5rxh9",
+  "entry": "./src/index.tsx",
+  "name": {
+    "zh-CN": "脚本",
+    "en-US": "Script"
+  },
+  "icon": "./logo.png",
+  "cover": "./cover.png",
+  "authorName": "APITable",
+  "authorIcon": "./author_icon.png",
+  "authorLink": "https://developers.apitable.com",
+  "authorEmail": "developer@apitable.com",
+  "description": {
+    "zh-CN": "通过编写简短的脚本，来减少重复任务所花费的时间，实现快捷的自定义能力",
+    "en-US": "Reduce the time spent on repetitive tasks by writing short scripts for quick customization capabilities"
+  },
+  "website": "https://developers.apitable.com/script/introduction/",
+  "sandbox": true
+}
